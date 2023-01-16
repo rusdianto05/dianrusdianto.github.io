@@ -1,1 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T17:40:30.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="INzYdLwElKJLJY3D1qZi" type="github"><diagram id="1QXIa9n2rZKFiL7uhx-Y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-16T17:58:21.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="ZETv3Oh3v4d7OEsGhAg-" type="github">
+  <diagram id="q2-tC55upcuNgZN-rhMF" name="Page-1">
+    <mxGraphModel dx="1034" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cu_NWqLQkP2w4srPh1if-3" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="20" width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="cu_NWqLQkP2w4srPh1if-4" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="cu_NWqLQkP2w4srPh1if-3">
+          <mxGeometry y="20" width="240" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="cu_NWqLQkP2w4srPh1if-7" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="cu_NWqLQkP2w4srPh1if-4">
+          <mxGeometry x="44.999999999999545" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cu_NWqLQkP2w4srPh1if-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="cu_NWqLQkP2w4srPh1if-7" parent="cu_NWqLQkP2w4srPh1if-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59.999999999999545" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu_NWqLQkP2w4srPh1if-10" value="Klik menu data&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;lowongan" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" vertex="1" parent="cu_NWqLQkP2w4srPh1if-4">
+          <mxGeometry x="-20.000000000000455" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cu_NWqLQkP2w4srPh1if-5" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="cu_NWqLQkP2w4srPh1if-3">
+          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

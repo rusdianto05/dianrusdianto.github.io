@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T10:02:11.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CFCL9va3Cl5GnIrFczMJ" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T10:06:21.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vd7UnlW5jRCxWacGaR4U" version="20.8.10" type="github">
   <diagram id="q2-tC55upcuNgZN-rhMF" name="Page-1">
-    <mxGraphModel dx="940" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="940" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cu_NWqLQkP2w4srPh1if-3" value="Mengelola data perusahaan" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
+        <mxCell id="cu_NWqLQkP2w4srPh1if-3" value="Mengelola data pencari kerja" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="10" width="520" height="660" as="geometry" />
         </mxCell>
         <mxCell id="soITFireidHiTCm3dS2a-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="cu_NWqLQkP2w4srPh1if-3" source="cu_NWqLQkP2w4srPh1if-10" target="soITFireidHiTCm3dS2a-1" edge="1">
@@ -22,13 +22,13 @@
         <mxCell id="cu_NWqLQkP2w4srPh1if-7" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="cu_NWqLQkP2w4srPh1if-4" vertex="1">
           <mxGeometry x="114.99999999999955" y="30" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cu_NWqLQkP2w4srPh1if-10" value="Klik menu data&lt;br&gt;&amp;nbsp;perusahaan" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="cu_NWqLQkP2w4srPh1if-4" vertex="1">
+        <mxCell id="cu_NWqLQkP2w4srPh1if-10" value="Klik menu data&lt;br&gt;&amp;nbsp;pencari kerja" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="cu_NWqLQkP2w4srPh1if-4" vertex="1">
           <mxGeometry x="59.999999999999545" y="120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="soITFireidHiTCm3dS2a-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cu_NWqLQkP2w4srPh1if-4" source="soITFireidHiTCm3dS2a-7" target="soITFireidHiTCm3dS2a-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="soITFireidHiTCm3dS2a-7" value="Mengakses data&lt;br&gt;perusahaan" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="cu_NWqLQkP2w4srPh1if-4" vertex="1">
+        <mxCell id="soITFireidHiTCm3dS2a-7" value="Mengakses data&lt;br&gt;pencari kerja" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="cu_NWqLQkP2w4srPh1if-4" vertex="1">
           <mxGeometry x="60" y="180" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zPkTkDjgAi5HdkAn8qXN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cu_NWqLQkP2w4srPh1if-4" source="soITFireidHiTCm3dS2a-9" target="zPkTkDjgAi5HdkAn8qXN-2">
@@ -70,7 +70,7 @@
         <mxCell id="cu_NWqLQkP2w4srPh1if-5" value="Sistem" style="swimlane;startSize=20;html=1;" parent="cu_NWqLQkP2w4srPh1if-3" vertex="1">
           <mxGeometry x="260" y="20" width="260" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="soITFireidHiTCm3dS2a-1" value="menampilkan data&lt;br&gt;perusahaan" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="cu_NWqLQkP2w4srPh1if-5" vertex="1">
+        <mxCell id="soITFireidHiTCm3dS2a-1" value="menampilkan data&lt;br&gt;pencari kerja" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="cu_NWqLQkP2w4srPh1if-5" vertex="1">
           <mxGeometry x="59.999999999999545" y="120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zPkTkDjgAi5HdkAn8qXN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cu_NWqLQkP2w4srPh1if-5" source="zPkTkDjgAi5HdkAn8qXN-19" target="zPkTkDjgAi5HdkAn8qXN-21">
